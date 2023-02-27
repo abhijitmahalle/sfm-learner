@@ -38,11 +38,7 @@ For testing depth :
 
 To visualize depth use the visualize.ipynb notebook in kitti_eval
 
-
-
-
 References for modified architectures:
 https://github.com/yzcjtr/GeoNet
 
-Link for presentation video:
-https://www.youtube.com/watch?v=bWV-gceHxxs
+
